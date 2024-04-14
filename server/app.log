@@ -1788,3 +1788,11 @@ PermissionError: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Us
 2024-04-14 10:13:11,875 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
 2024-04-14 10:13:11,890 - werkzeug - WARNING -  * Debugger is active!
 2024-04-14 10:13:11,894 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 10:13:29,844 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 10:13:29] "GET /getlist HTTP/1.1" 200 -
+2024-04-14 13:56:15,347 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-14 13:56:15,706 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-14 13:56:15,828 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 13:56:16,261 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 13:56:16,266 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 13:56:16,274 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 13:56:16,277 - werkzeug - INFO -  * Debugger PIN: 965-295-910
