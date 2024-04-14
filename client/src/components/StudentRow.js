@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
 import { uploadFileToServer } from './Uploader';
 import { getSpreadsheetData } from './getList';
+import { Link } from 'react-router-dom';
+
+
 
 const StudentRow = ({ student }) => {
     const [selectedFile, setSelectedFile] = useState(null);
@@ -39,6 +42,7 @@ const StudentRow = ({ student }) => {
         try {
             const data = await getSpreadsheetData();
             setSpreadsheetData(data);
+            data.sort((a, b) => new Date(a[2]) - new Date(b[2]));
         } catch (error) {
             // Handle the error appropriately
             console.error("Error fetching data:", error);
@@ -79,28 +83,32 @@ const StudentRow = ({ student }) => {
                             <tr>
                                 <th>Filename</th>
                                 <th>Upload Date</th>
-                                <th>File Format</th>
-                                <th>Source</th>
                             </tr>
                         </thead>
                         <tbody>
-                            {spreadsheetData.map((row, index) => (
-                                <tr key={index}>
-                                    {row.map((cell, cellIndex) => (
-                                        <td key={cellIndex}>{cell}</td>
-                                    ))}
-                                </tr>
-                            ))}
+                            {spreadsheetData.map((row, index) => {
+                                // Check the content of the row to determine if it's a meeting or file
+                                const isMeeting = row[3] === 'meeting';
+                                const baseUrl = isMeeting ? '/meeting/' : '/grading/';
+                                const linkPath = `${baseUrl}${encodeURIComponent(row[5])}`;
+
+                                return (
+                                    <tr key={index}>
+                                        <td>
+                                            <Link to={linkPath}>
+                                                {row[1]} {/* Make filename clickable */}
+                                            </Link>
+                                        </td>
+                                        <td>{row[2]} {/* Display upload date */}</td>
+                                    </tr>
+                                );
+                            })}
                         </tbody>
                     </table>
                 </div>
             )}
         </>
     );
-};
+}
 
 export default StudentRow;
-
-
-
-

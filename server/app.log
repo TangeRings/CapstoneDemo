@@ -952,3 +952,839 @@ PermissionError: [WinError 32] ÁíÒ»¸ö³ÌÐòÕýÔÚÊ¹ÓÃ´ËÎÄ¼þ£¬½ø³ÌÎÞ·¨·ÃÎÊ¡£: 'C:\\Us
 2024-04-13 12:54:23,727 - root - INFO - File 2.jpg uploaded successfully to Google Drive with ID 1UlVmLFN1Fyve_SEAB-EluzLeLquej1JS
 2024-04-13 12:54:26,755 - root - INFO - Sheet updated with file info: 2.jpg
 2024-04-13 12:54:26,758 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 12:54:26] "POST /upload HTTP/1.1" 200 -
+2024-04-13 14:42:55,969 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 14:42:55,975 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 14:42:55,995 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 14:42:55,995 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 14:42:56,004 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 14:42:56,304 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 14:42:56,304 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 14:42:56,315 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 14:42:56,315 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 14:44:39,363 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\datetime.py', reloading
+2024-04-13 14:44:39,565 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 14:44:39,570 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\test.py', reloading
+2024-04-13 14:44:40,240 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 14:44:40,570 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 14:44:40,572 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 14:44:40,581 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 14:44:40,587 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\concurrent\\__init__.py', reloading
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\distutils\\__init__.py', reloading
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\idlelib\\__init__.py', reloading
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\lib2to3\\__init__.py', reloading
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\test\\__init__.py', reloading
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\turtledemo\\__init__.py', reloading
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\wsgiref\\__init__.py', reloading
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\xmlrpc\\__init__.py', reloading
+2024-04-13 14:44:40,744 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\__phello__\\__init__.py', reloading
+2024-04-13 14:44:41,668 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 14:44:41,978 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 14:44:41,981 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 14:44:41,990 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 14:44:41,995 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 15:03:39,313 - root - INFO - File 2.jpg uploaded successfully to Google Drive with ID 1OPFI1RY772XLh4h3tlAgM1FPOEkFwG3d
+2024-04-13 15:03:42,114 - root - INFO - Sheet updated with file info: 2.jpg
+2024-04-13 15:03:42,116 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:03:42] "POST /upload HTTP/1.1" 200 -
+2024-04-13 15:03:46,834 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:03:46] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 15:04:45,453 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:04:45] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 15:08:32,478 - root - INFO - File avatar.jpg uploaded successfully to Google Drive with ID 1Pk2ZRUJQNpimmVcpCup82lbbtZHlIQ1g
+2024-04-13 15:08:33,032 - root - INFO - Sheet updated with file info: avatar.jpg
+2024-04-13 15:08:33,033 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:08:33] "POST /upload HTTP/1.1" 200 -
+2024-04-13 15:08:35,483 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:08:35] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 15:30:12,760 - root - ERROR - Unexpected error: EOF occurred in violation of protocol (_ssl.c:2423)
+2024-04-13 15:30:12,760 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:30:12] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-04-13 15:30:20,353 - root - INFO - File 35951_l.png uploaded successfully to Google Drive with ID 1efGbl8NemWSy20Jq3efjAIWtsoS2-GxF
+2024-04-13 15:30:20,380 - root - ERROR - Unexpected error: EOF occurred in violation of protocol (_ssl.c:2423)
+2024-04-13 15:30:20,380 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:30:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-04-13 15:30:26,763 - root - INFO - File 35951_l.png uploaded successfully to Google Drive with ID 13GuTkAjQiUMYsf1iyPJzaq7aiafAXY3s
+2024-04-13 15:30:31,373 - root - INFO - Sheet updated with file info: 35951_l.png
+2024-04-13 15:30:31,373 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:30:31] "POST /upload HTTP/1.1" 200 -
+2024-04-13 15:30:36,512 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:30:36] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 15:31:12,534 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:31:12] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 15:51:30,559 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\flask\\app.py', reloading
+2024-04-13 15:51:30,560 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+2024-04-13 15:51:30,560 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\googleserver.py', reloading
+2024-04-13 15:51:30,562 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\googleapiclient\\_helpers.py', reloading
+2024-04-13 15:51:30,562 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\googleapiclient\\http.py', reloading
+2024-04-13 15:51:30,562 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\google_auth_httplib2.py', reloading
+2024-04-13 15:51:30,562 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\httplib2\\__init__.py', reloading
+2024-04-13 15:51:30,562 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\http\\client.py', reloading
+2024-04-13 15:51:30,579 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\ssl.py', reloading
+2024-04-13 15:51:30,594 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:51:30] "[35m[1mGET /getlist HTTP/1.1[0m" 500 -
+2024-04-13 15:51:30,952 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 15:51:31,356 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 15:51:31,356 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 15:51:31,371 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 15:51:31,371 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 15:55:32,604 - root - INFO - File 35951_l.png uploaded successfully to Google Drive with ID 1yeYkGVBT3s9uyYPUYtx_jigc_40lvDLU
+2024-04-13 15:55:37,163 - root - INFO - Sheet updated with file info: 35951_l.png
+2024-04-13 15:55:37,163 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:55:37] "POST /upload HTTP/1.1" 200 -
+2024-04-13 15:55:40,170 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:55:40] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 15:58:29,430 - root - INFO - File avatar.jpg uploaded successfully to Google Drive with ID 1vetN-X5Q8z5uRghCQle4vHHjnEh57KHn
+2024-04-13 15:58:30,254 - root - INFO - Sheet updated with file info: avatar.jpg
+2024-04-13 15:58:30,254 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:58:30] "POST /upload HTTP/1.1" 200 -
+2024-04-13 15:58:33,573 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 15:58:33] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 16:05:33,433 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 16:05:33] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 16:15:12,550 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 16:15:12] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 16:15:35,233 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 16:15:35] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 16:22:28,303 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 16:22:29,226 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 16:22:29,787 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 16:22:29,787 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 16:22:29,804 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 16:22:29,821 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 16:24:23,725 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 16:24:23] "[33mGET /syllabus HTTP/1.1[0m" 404 -
+2024-04-13 16:24:24,492 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 16:24:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-13 16:39:26,305 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 16:39:26] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 17:22:48,506 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:22:48,507 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:22:48,507 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:22:49,017 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 17:22:49,398 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:22:49,398 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:22:49,411 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 17:22:49,411 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 17:23:11,218 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 17:23:11] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 17:24:40,192 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 17:24:40] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 17:25:04,689 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:25:04,690 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:25:04,690 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:25:05,727 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 17:25:06,053 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:25:06,053 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:25:06,062 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 17:25:06,062 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 17:25:48,540 - root - INFO - File avatar.jpg uploaded successfully to Google Drive with ID 1eMskgc1DW9qgTGIPufHaOk_9ghOJ1YSn
+2024-04-13 17:25:50,331 - root - INFO - Sheet updated with file info: avatar.jpg
+2024-04-13 17:25:50,331 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 17:25:50] "POST /upload HTTP/1.1" 200 -
+2024-04-13 17:25:52,996 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 17:25:52] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 17:28:30,083 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:28:30,083 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:28:30,098 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 17:28:30,098 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 17:28:30,119 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 17:28:30,431 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:28:30,433 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:28:30,442 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 17:28:30,442 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 17:29:09,309 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 17:29:09] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 17:37:53,092 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:37:53,854 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 17:37:54,206 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:37:54,206 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:37:54,221 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 17:37:54,221 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 17:41:20,599 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\trace.py', reloading
+2024-04-13 17:41:21,388 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\traceback.py', reloading
+2024-04-13 17:41:21,516 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 17:41:21,855 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:41:21,858 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:41:21,866 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 17:41:21,871 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 17:42:17,398 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:42:17,398 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 17:42:17,685 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 17:42:18,046 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:42:18,048 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:42:18,057 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 17:42:18,062 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 17:43:11,514 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\openai\\_utils\\_utils.py', reloading
+2024-04-13 17:43:11,514 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\openai\\resources\\chat\\completions.py', reloading
+2024-04-13 17:43:11,514 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\openai\\_base_client.py', reloading
+2024-04-13 17:43:12,287 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 17:43:12,599 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:43:12,612 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 17:43:12,612 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 17:43:12,612 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 17:59:59,710 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 17:59:59] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:03:18,469 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:03:18,470 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:03:18,847 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:03:19,178 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 18:03:19,178 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 18:03:19,178 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 18:03:19,193 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 18:03:54,802 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:03:54] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:05:53,933 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:05:53,934 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:05:53,934 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:05:54,567 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:05:55,051 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 18:05:55,053 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 18:05:55,064 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 18:05:55,069 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 18:06:10,287 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:06:10] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:06:26,671 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:06:26] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:07:44,418 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:07:44] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:19:49,739 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:19:49] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:28:12,862 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:28:12,863 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:28:12,864 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:28:13,718 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:28:14,073 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 18:28:14,075 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 18:28:14,087 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 18:28:14,093 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 18:28:38,132 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:28:38] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:28:53,916 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:28:53] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:29:36,567 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:29:36] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:33:30,312 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:33:30,313 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:33:30,314 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 18:33:31,216 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:33:31,601 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 18:33:31,604 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 18:33:31,614 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 18:33:31,624 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 18:50:34,215 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:50:34] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 18:50:54,480 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 18:50:54] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:21:46,950 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:21:46] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:21:49,956 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:21:49] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:21:57,862 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:21:57] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:22:30,610 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:22:30] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:22:47,586 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:22:47] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:23:31,213 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:23:31] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:23:42,269 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:23:42] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:23:57,453 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:23:57] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:27:04,052 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:27:04] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:33:38,907 - root - INFO - File Job_Title_Mini-app.docx uploaded successfully to Google Drive with ID 1duDBhe5U_7e5w8N6_74wooijJbHpbL-c
+2024-04-13 19:33:41,321 - root - INFO - Sheet updated with file info: Job_Title_Mini-app.docx
+2024-04-13 19:33:41,322 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:33:41] "POST /upload HTTP/1.1" 200 -
+2024-04-13 19:33:48,338 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:33:48] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:36:12,674 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 19:36:12,676 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 19:36:12,676 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 19:36:12,780 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:36:13,189 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:36:13,192 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:36:13,195 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 19:36:13,208 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 19:36:54,921 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:36:54] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:40:37,075 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\tempfile.py', reloading
+2024-04-13 19:40:37,908 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:40:38,371 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:40:38,374 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:40:38,385 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 19:40:38,393 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 19:40:38,652 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\concurrent\\__init__.py', reloading
+2024-04-13 19:40:38,652 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\distutils\\__init__.py', reloading
+2024-04-13 19:40:38,653 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\idlelib\\__init__.py', reloading
+2024-04-13 19:40:38,653 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\lib2to3\\__init__.py', reloading
+2024-04-13 19:40:38,653 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\test\\__init__.py', reloading
+2024-04-13 19:40:38,654 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\turtledemo\\__init__.py', reloading
+2024-04-13 19:40:38,654 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\wsgiref\\__init__.py', reloading
+2024-04-13 19:40:38,655 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\xml\\__init__.py', reloading
+2024-04-13 19:40:38,655 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\xmlrpc\\__init__.py', reloading
+2024-04-13 19:40:38,655 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\__phello__\\__init__.py', reloading
+2024-04-13 19:40:39,517 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:40:39,893 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:40:39,893 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:40:39,916 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 19:40:39,920 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 19:44:07,255 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 19:44:07] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 19:51:39,339 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 19:51:39,401 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:51:39,785 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:51:39,785 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:51:39,801 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 19:51:39,801 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 19:52:32,047 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 19:52:32,052 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 19:52:33,120 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:52:33,502 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:52:33,502 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 19:52:33,518 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 19:52:33,518 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 20:06:01,409 - werkzeug - INFO - 127.0.0.1 - - [13/Apr/2024 20:06:01] "GET /getlist HTTP/1.1" 200 -
+2024-04-13 20:41:03,648 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-13 20:41:04,350 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 20:41:04,720 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:41:04,729 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:41:04,729 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 20:41:04,729 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 20:45:38,663 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\tempfile.py', reloading
+2024-04-13 20:45:39,642 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 20:45:39,980 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:45:39,992 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:45:39,992 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 20:45:39,992 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 20:52:40,439 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+2024-04-13 20:52:40,470 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\pip\\_vendor\\packaging\\markers.py', reloading
+2024-04-13 20:52:41,419 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 20:52:41,733 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:52:41,733 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:52:41,748 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 20:52:41,748 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\__about__.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\__about__.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\__about__.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\__init__.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\__init__.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\account.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\account.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\client.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\client.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\collection.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\collection.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\deployment.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\deployment.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\exceptions.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\exceptions.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\files.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\files.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\hardware.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\hardware.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\identifier.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\identifier.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\json.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\json.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\model.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\model.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\pagination.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\pagination.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\prediction.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\prediction.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\resource.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\resource.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\run.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\run.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\schema.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\schema.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\stream.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\stream.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\training.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\training.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\version.py', reloading
+2024-04-13 20:52:44,369 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\version.py', reloading
+2024-04-13 20:52:44,876 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 20:52:45,264 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:52:45,267 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:52:45,275 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 20:52:45,279 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 20:53:10,350 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\__init__.py', reloading
+2024-04-13 20:53:10,350 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\__init__.py', reloading
+2024-04-13 20:53:10,351 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\__init__.py', reloading
+2024-04-13 20:53:10,351 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\ast.py', reloading
+2024-04-13 20:53:10,351 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\ast.py', reloading
+2024-04-13 20:53:10,351 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\compat.py', reloading
+2024-04-13 20:53:10,351 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\compat.py', reloading
+2024-04-13 20:53:10,351 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\exceptions.py', reloading
+2024-04-13 20:53:10,351 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\exceptions.py', reloading
+2024-04-13 20:53:10,354 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\functions.py', reloading
+2024-04-13 20:53:10,354 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\functions.py', reloading
+2024-04-13 20:53:10,354 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\lexer.py', reloading
+2024-04-13 20:53:10,355 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\lexer.py', reloading
+2024-04-13 20:53:10,355 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\parser.py', reloading
+2024-04-13 20:53:10,355 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\parser.py', reloading
+2024-04-13 20:53:10,356 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\visitor.py', reloading
+2024-04-13 20:53:10,357 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\jmespath\\visitor.py', reloading
+2024-04-13 20:53:10,359 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Scripts\\jp.py', reloading
+2024-04-13 20:53:10,359 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Scripts\\jp.py', reloading
+2024-04-13 20:53:10,359 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Scripts\\jp.py', reloading
+2024-04-13 20:53:10,359 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Scripts\\jp.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\__init__.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\__init__.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\__init__.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\args.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\args.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\auth.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\auth.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\awsrequest.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\awsrequest.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\client.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\client.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\compat.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\compat.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\compress.py', reloading
+2024-04-13 20:53:10,391 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\compress.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\config.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\config.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\configloader.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\configloader.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\configprovider.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\configprovider.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\credentials.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\credentials.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\discovery.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\discovery.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\endpoint.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\endpoint.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\endpoint_provider.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\endpoint_provider.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\errorfactory.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\errorfactory.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\eventstream.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\eventstream.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\exceptions.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\exceptions.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\handlers.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\handlers.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\history.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\history.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\hooks.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\hooks.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\httpchecksum.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\httpchecksum.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\httpsession.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\httpsession.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\loaders.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\loaders.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\model.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\model.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\monitoring.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\monitoring.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\paginate.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\paginate.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\parsers.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\parsers.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\regions.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\regions.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\response.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\response.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retryhandler.py', reloading
+2024-04-13 20:53:10,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retryhandler.py', reloading
+2024-04-13 20:53:10,424 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\serialize.py', reloading
+2024-04-13 20:53:10,424 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\serialize.py', reloading
+2024-04-13 20:53:10,424 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\session.py', reloading
+2024-04-13 20:53:10,425 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\session.py', reloading
+2024-04-13 20:53:10,425 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\signers.py', reloading
+2024-04-13 20:53:10,425 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\signers.py', reloading
+2024-04-13 20:53:10,426 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\stub.py', reloading
+2024-04-13 20:53:10,426 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\stub.py', reloading
+2024-04-13 20:53:10,426 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\tokens.py', reloading
+2024-04-13 20:53:10,427 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\tokens.py', reloading
+2024-04-13 20:53:10,427 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\translate.py', reloading
+2024-04-13 20:53:10,427 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\translate.py', reloading
+2024-04-13 20:53:10,428 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\useragent.py', reloading
+2024-04-13 20:53:10,428 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\useragent.py', reloading
+2024-04-13 20:53:10,428 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\utils.py', reloading
+2024-04-13 20:53:10,429 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\utils.py', reloading
+2024-04-13 20:53:10,429 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\validate.py', reloading
+2024-04-13 20:53:10,429 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\validate.py', reloading
+2024-04-13 20:53:10,429 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\waiter.py', reloading
+2024-04-13 20:53:10,430 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\waiter.py', reloading
+2024-04-13 20:53:10,430 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\crt\\__init__.py', reloading
+2024-04-13 20:53:10,430 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\crt\\__init__.py', reloading
+2024-04-13 20:53:10,431 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\crt\\__init__.py', reloading
+2024-04-13 20:53:10,431 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\crt\\auth.py', reloading
+2024-04-13 20:53:10,431 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\crt\\auth.py', reloading
+2024-04-13 20:53:10,701 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 20:53:11,000 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:53:11,000 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:53:11,000 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 20:53:11,016 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\client.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\docstring.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\example.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\method.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\paginator.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\params.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\service.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\shape.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\sharedexample.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\translator.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\utils.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\waiter.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\docstringparser.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\restdoc.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\style.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\client.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\client.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\docstring.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\docstring.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\example.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\example.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\method.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\method.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\paginator.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\paginator.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\params.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\params.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\service.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\service.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\shape.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\shape.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\sharedexample.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\sharedexample.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\translator.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\translator.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\utils.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\utils.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\waiter.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\waiter.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\docstringparser.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\restdoc.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\style.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\docstringparser.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\docstringparser.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\restdoc.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\restdoc.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\style.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\docs\\bcdoc\\style.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\adaptive.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\base.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\bucket.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\quota.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\special.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\standard.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\throttling.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\adaptive.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\adaptive.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\base.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\base.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\bucket.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\bucket.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\quota.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\quota.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\special.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\special.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\standard.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\standard.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\throttling.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\retries\\throttling.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\six.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\six.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\six.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\__init__.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\exceptions.py', reloading
+2024-04-13 20:53:11,282 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\exceptions.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\__init__.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\__init__.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\__init__.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\bandwidth.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\bandwidth.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\compat.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\compat.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\constants.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\constants.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\copies.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\copies.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\crt.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\crt.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\delete.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\delete.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\delete.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\download.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\download.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\exceptions.py', reloading
+2024-04-13 20:53:11,518 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\exceptions.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\futures.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\futures.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\manager.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\manager.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\processpool.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\processpool.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\subscribers.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\subscribers.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\tasks.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\tasks.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\upload.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\upload.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\utils.py', reloading
+2024-04-13 20:53:11,534 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\s3transfer\\utils.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\__init__.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\__init__.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\compat.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\compat.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\crt.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\crt.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\exceptions.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\exceptions.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\session.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\session.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\utils.py', reloading
+2024-04-13 20:53:11,582 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\utils.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\action.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\attr.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\base.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\client.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\collection.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\docstring.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\method.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\resource.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\service.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\subresource.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\utils.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\waiter.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\__init__.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\__init__.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\__init__.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\action.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\action.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\attr.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\attr.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\base.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\base.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\client.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\client.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\collection.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\collection.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\docstring.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\docstring.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\method.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\method.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\resource.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\resource.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\service.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\service.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\subresource.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\subresource.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\utils.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\utils.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\waiter.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\docs\\waiter.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\conditions.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\table.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\transform.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\types.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\__init__.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\__init__.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\__init__.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\conditions.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\conditions.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\table.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\table.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\transform.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\transform.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\types.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\dynamodb\\types.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\createtags.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\deletetags.py', reloading
+2024-04-13 20:53:11,597 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\__init__.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\__init__.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\__init__.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\createtags.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\createtags.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\deletetags.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\ec2\\deletetags.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\action.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\base.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\collection.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\factory.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\model.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\params.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\response.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\__init__.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\__init__.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\action.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\action.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\base.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\base.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\collection.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\collection.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\factory.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\factory.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\model.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\model.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\params.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\params.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\response.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\resources\\response.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\constants.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\inject.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\transfer.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\__init__.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\__init__.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\__init__.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\constants.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\constants.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\inject.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\inject.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\transfer.py', reloading
+2024-04-13 20:53:11,613 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\boto3\\s3\\transfer.py', reloading
+2024-04-13 20:53:12,205 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 20:53:12,517 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:53:12,517 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:53:12,532 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 20:53:12,532 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 20:53:19,294 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 20:53:19,294 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 20:53:19,707 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 20:53:20,091 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:53:20,091 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:53:20,108 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 20:53:20,108 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 20:55:20,841 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 20:55:20,843 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 20:55:21,056 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 20:55:21,399 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:55:21,407 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 20:55:21,407 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 20:55:21,407 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:09:56,191 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\posixpath.py', reloading
+2024-04-13 21:09:56,400 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:09:56,835 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:09:56,835 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:09:56,835 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:09:56,853 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:10:15,576 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\os.py', reloading
+2024-04-13 21:10:16,194 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:10:16,515 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:10:16,516 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:10:16,516 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:10:16,532 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:11:17,104 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:11:17,104 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:11:17,495 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:11:17,816 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:11:17,832 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:11:17,832 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:11:17,832 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:11:42,412 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:11:42,413 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:11:42,413 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:11:43,299 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:11:43,610 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:11:43,621 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:11:43,626 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:11:43,626 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:19:08,359 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:19:08,361 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:19:08,364 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:19:08,530 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:19:08,874 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:19:08,876 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:19:08,880 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:19:08,880 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:23:27,229 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:23:27,230 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:23:28,054 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:23:28,438 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:23:28,443 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:23:28,449 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:23:28,460 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:28:49,522 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:28:49,523 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:28:49,523 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:28:49,523 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:28:49,989 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:28:50,345 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:28:50,349 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:28:50,359 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:28:50,361 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:51:47,191 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\tempfile.py', reloading
+2024-04-13 21:51:47,211 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\typing.py', reloading
+2024-04-13 21:51:47,943 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:51:48,313 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:51:48,313 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:51:48,313 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:51:48,329 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:56:12,644 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:56:12,645 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:56:12,645 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:56:13,716 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:56:14,114 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:56:14,114 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:56:14,114 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:56:14,134 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:57:07,930 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:57:07,931 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:57:07,931 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:57:08,458 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:57:08,929 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:57:08,931 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:57:08,945 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:57:08,950 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 21:58:08,471 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:58:08,471 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:58:08,478 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 21:58:08,618 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 21:58:08,945 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:58:08,945 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 21:58:08,965 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 21:58:08,965 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 22:01:19,993 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:01:20,247 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 22:01:20,577 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:01:20,594 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:01:20,594 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 22:01:20,594 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 22:14:32,921 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:14:32,922 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:14:32,922 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:14:32,992 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 22:14:33,354 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:14:33,354 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:14:33,371 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 22:14:33,371 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 22:28:41,111 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:28:41,111 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:28:41,111 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:28:41,111 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:28:41,240 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 22:28:41,598 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:28:41,600 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:28:41,604 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 22:28:41,619 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 22:41:54,090 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:41:54,091 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-13 22:41:55,164 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 22:41:55,648 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:41:55,648 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:41:55,659 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 22:41:55,665 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-13 22:57:29,566 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\os.py', reloading
+2024-04-13 22:57:30,527 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 22:57:30,902 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:57:30,904 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-13 22:57:30,913 - werkzeug - WARNING -  * Debugger is active!
+2024-04-13 22:57:30,920 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 00:03:37,455 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-14 00:03:37,935 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 00:03:38,302 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 00:03:38,305 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 00:03:38,314 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 00:03:38,319 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 00:04:13,853 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\flask\\app.py', reloading
+2024-04-14 00:04:13,855 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+2024-04-14 00:04:13,857 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\client.py', reloading
+2024-04-14 00:04:13,857 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\replicate\\run.py', reloading
+2024-04-14 00:04:14,465 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 00:04:14,792 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 00:04:14,794 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 00:04:14,804 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 00:04:14,808 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 00:23:22,760 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 00:23:22] "GET /getlist HTTP/1.1" 200 -
+2024-04-14 10:13:10,761 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-14 10:13:11,495 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 10:13:11,875 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 10:13:11,875 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 10:13:11,890 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 10:13:11,894 - werkzeug - INFO -  * Debugger PIN: 965-295-910

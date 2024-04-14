@@ -11,6 +11,7 @@ from flask import Flask, request, jsonify
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
 import logging
+import traceback
 
 
 
@@ -47,6 +48,7 @@ def get_meeting_dates(syllabus):
     """Uses GPT to get the project description from the script."""
     response = client.chat.completions.create(
         model="gpt-4",
+        temperature=0.1,
         messages=[
             {
                 "role": "system",
@@ -82,6 +84,9 @@ def append_to_sheet(values):
     except HttpError as error:
         print(f"Failed to update sheet: {error}")
 
+ADMIN_LABEL = "admin"
+MEETING_PAGE_BASE_URL = "/meeting/"
+
 def parse_and_prepare_data_for_spreadsheet(response_content):
     """Parse AI response and prepare data for Google Sheets."""
     lines = response_content.strip().split("\n")
@@ -89,8 +94,9 @@ def parse_and_prepare_data_for_spreadsheet(response_content):
     for line in lines:
         parts = line.split(' ', 1)
         if len(parts) == 2:
-            date_str, filename = parts
-            values_to_insert.append([filename, date_str, 'meeting', 'syllabus'])
+            date_str, meeting_name = parts
+            redirect_url = f"/meeting/{meeting_name.replace(' ', '-').lower()}"
+            values_to_insert.append([ADMIN_LABEL, meeting_name, date_str, 'meeting', 'syllabus', meeting_name, redirect_url])
     return values_to_insert
 
 def process_syllabus_pdf(temp_pdf_path):
@@ -132,9 +138,9 @@ def upload_syllabus():
         
         return jsonify({"success": True, "message": "Syllabus processed and uploaded to the spreadsheet"}), 200
     except Exception as e:
-        # Cleanup the temporary file in case of an error
-        if os.path.exists(temp_pdf_path):
-            os.remove(temp_pdf_path)
+        traceback_str = ''.join(traceback.format_tb(e.__traceback__))
+        app.logger.error(f"Exception: {e}")
+        app.logger.error(f"Traceback: {traceback_str}")
         return jsonify({"error": "An error occurred during processing", "details": str(e)}), 500
     
 

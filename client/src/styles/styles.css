@@ -56,3 +56,20 @@
 .action-bar-container {
   padding-left: 200px; /* Adjust this value to suit your layout */
 }
+
+
+.meeting-page-container {
+    display: flex;
+    width: 100%;
+    height: 100vh; /* Adjust height as needed */
+}
+
+.recorder, .meeting-note {
+    flex: 1;
+    padding: 20px;
+    overflow: auto; /* Adds scroll if content overflows */
+}
+
+.recorder {
+    border-right: 2px solid #ccc; /* Visual separation between components */
+}
