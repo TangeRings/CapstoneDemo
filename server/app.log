@@ -1796,3 +1796,162 @@ PermissionError: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Us
 2024-04-14 13:56:16,266 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
 2024-04-14 13:56:16,274 - werkzeug - WARNING -  * Debugger is active!
 2024-04-14 13:56:16,277 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 14:01:41,666 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 14:01:41] "GET /getlist HTTP/1.1" 200 -
+2024-04-14 14:17:49,218 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 14:17:49,673 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 14:17:50,050 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 14:17:50,051 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 14:17:50,057 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 14:17:50,068 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 14:23:35,434 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\copy.py', reloading
+2024-04-14 14:23:35,828 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 14:23:36,209 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 14:23:36,211 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 14:23:36,224 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 14:23:36,228 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 14:38:13,684 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 14:38:13,686 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 14:38:14,083 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 14:38:14,469 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 14:38:14,472 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 14:38:14,489 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 14:38:14,495 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 15:12:44,300 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 15:12:44,305 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 15:12:44,537 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 15:12:44,907 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 15:12:44,907 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 15:12:44,919 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 15:12:44,919 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 15:28:11,326 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 15:28:11,326 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 15:28:11,326 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 15:28:11,530 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 15:28:11,865 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 15:28:11,865 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 15:28:11,880 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 15:28:11,885 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:23:38,325 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\json\\__init__.py', reloading
+2024-04-14 16:23:38,660 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:23:38,997 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:23:38,999 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:23:39,007 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:23:39,012 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:24:45,812 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\typing.py', reloading
+2024-04-14 16:24:46,552 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:24:46,883 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:24:46,901 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:24:46,902 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:24:46,911 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:25:24,346 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:25:24,347 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:25:24,347 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:25:24,559 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:25:24,888 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:25:24,890 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:25:24,898 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:25:24,902 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:27:22,901 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\os.py', reloading
+2024-04-14 16:27:23,154 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:27:23,468 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:27:23,470 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:27:23,480 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:27:23,484 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:27:51,345 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:27:51,346 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:27:51,346 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:27:51,972 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:27:52,333 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:27:52,333 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:27:52,333 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:27:52,350 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:28:00,225 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\openai\\_client.py', reloading
+2024-04-14 16:28:00,537 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:28:00,883 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:28:00,883 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:28:00,899 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:28:00,899 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:29:05,798 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\datetime.py', reloading
+2024-04-14 16:29:05,957 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:29:06,260 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:29:06,263 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:29:06,271 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:29:06,275 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:29:13,442 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:29:13,442 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:29:13,442 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 16:29:14,437 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:29:14,722 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:29:14,722 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:29:14,738 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:29:14,738 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:29:22,661 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+2024-04-14 16:29:22,682 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\pip\\_vendor\\packaging\\markers.py', reloading
+2024-04-14 16:29:22,913 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:29:23,243 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:29:23,243 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:29:23,261 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:29:23,266 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 16:30:06,103 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-14 16:30:06,449 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 16:30:06,884 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:30:06,884 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 16:30:06,900 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 16:30:06,900 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 17:25:41,897 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:25:41,897 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:25:41,898 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:25:42,438 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 17:25:42,813 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:25:42,816 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:25:42,825 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 17:25:42,829 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 17:27:58,654 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:27:58,655 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:27:58,655 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:27:59,646 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 17:27:59,956 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:27:59,959 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:27:59,967 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 17:27:59,971 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 17:36:50,757 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\traceback.py', reloading
+2024-04-14 17:36:50,855 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 17:36:51,165 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:36:51,168 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:36:51,177 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 17:36:51,181 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 17:36:51,569 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\collections\\abc.py', reloading
+2024-04-14 17:36:51,610 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\linecache.py', reloading
+2024-04-14 17:36:51,610 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\textwrap.py', reloading
+2024-04-14 17:36:51,610 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\contextlib.py', reloading
+2024-04-14 17:36:51,828 - werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\ast.py', reloading
+2024-04-14 17:36:52,262 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 17:36:52,612 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:36:52,612 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:36:52,612 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 17:36:52,628 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 17:36:53,208 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:36:53,209 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:36:53,245 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:36:53,711 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 17:36:54,037 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:36:54,040 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:36:54,049 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 17:36:54,054 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 17:38:32,246 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 17:38:32] "GET /getlist HTTP/1.1" 200 -
+2024-04-14 17:41:05,407 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:41:05,408 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:41:05,409 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:41:06,256 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 17:41:06,557 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:41:06,560 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:41:06,569 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 17:41:06,573 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-14 17:41:17,776 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:41:17,776 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:41:17,776 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-14 17:41:18,824 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-14 17:41:19,109 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:41:19,109 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-14 17:41:19,130 - werkzeug - WARNING -  * Debugger is active!
+2024-04-14 17:41:19,130 - werkzeug - INFO -  * Debugger PIN: 965-295-910
