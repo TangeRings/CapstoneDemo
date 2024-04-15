@@ -1,0 +1,77 @@
+.table-header {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  white-space: nowrap;
+  width: 300px;
+
+}
+.upload-header {
+  font-family: Arial, sans-serif;
+  white-space: nowrap;
+  text-align: left;
+  width: 200px;
+
+}
+.update-header {
+  font-family: Arial, sans-serif;
+  white-space: nowrap;
+  text-align: left;
+  width: 200px;
+
+}
+
+
+
+.student-name {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  background-color: #f0f0f0; /* Example color, adjust as needed */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.uploaded-files-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+}
+
+.uploaded-files-table {
+  margin: auto; /* Center the table */
+}
+
+/* ... existing styles ... */
+
+.upload-column, .file-list-column {
+  padding-left: 200px; /* Adjust as needed to align with 'Upload' header */
+}
+
+/* Align the header 'Upload' with the file list */
+th.upload-header {
+  text-align: left;
+  padding-left: 200px; /* Aligns header with the file list items */
+}
+
+/* ... existing styles ... */
+
+/* If the uploaded files are listed within StudentRow */
+.file-list-column {
+  padding-left: 302.4px; /* Aligns file list with the 'Upload' header */
+}
+
+.student-row td, .file-list-row td {
+  width: 200px; /* Adjust the width to match the header */
+  overflow: hidden; /* Ensures content does not overflow */
+  text-overflow: ellipsis; /* Adds an ellipsis if the content overflows */
+}
+
+table {
+  table-layout: fixed;
+  width: 100%; /* You can set a fixed width instead if you prefer */
+}
+
+.uploaded-files-table {
+  margin-left: 0cm; /* Or however you've set the alignment */
+  table-layout: fixed;
+  width: calc(100%); /* Adjust the width based on the left margin */
+}

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import StudentRow from './StudentRow';
 import Button from '@mui/material/Button';
 import axios from 'axios';
+import '../styles/dashboard.css';
 
 
 const DashboardTable = () => {
@@ -63,12 +64,15 @@ const DashboardTable = () => {
                     Upload Syllabus
                 </Button>
             </label>
-            <button onClick={addStudent} style={{ marginBottom: '20px' }}>Add Student</button>
+             <Button variant="contained" color="secondary" onClick={addStudent} style={{ marginBottom: '20px', marginLeft: '20px' }}>
+                Add Student
+            </Button>
             <table>
                 <thead>
                     <tr>
-                        <th>Name</th>
-                        <th>Upload</th>
+                        <th className="table-header">Name</th>
+                        <th className="upload-header">Upload</th>
+                        <th className="update-header">Update</th>
                     </tr>
                 </thead>
                 <tbody>

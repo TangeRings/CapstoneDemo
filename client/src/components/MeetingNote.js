@@ -71,11 +71,9 @@ function MeetingNote() {
 
 
 
-
-
     return (
-        <Box p={3}>
-            <Typography variant="h5">Meeting Notes Analysis</Typography>
+        <Box p={0}>
+            <h1 className="title">Feedback Analysis</h1>
             <input
                 type="file"
                 onChange={handleFileChange}

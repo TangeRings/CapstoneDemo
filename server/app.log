@@ -1961,3 +1961,95 @@ PermissionError: [WinError 32] ÁíÒ»¸ö³ÌĞòÕıÔÚÊ¹ÓÃ´ËÎÄ¼ş£¬½ø³ÌÎŞ·¨·ÃÎÊ¡£: 'C:\\Us
 2024-04-14 20:05:13,466 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
 2024-04-14 20:05:13,476 - werkzeug - WARNING -  * Debugger is active!
 2024-04-14 20:05:13,481 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-15 12:46:56,927 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-15 12:46:57,542 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-15 12:46:57,933 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 12:46:57,940 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 12:46:57,949 - werkzeug - WARNING -  * Debugger is active!
+2024-04-15 12:46:57,957 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-15 12:47:34,165 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-15 12:47:34,579 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-15 12:47:34,977 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 12:47:34,977 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 12:47:34,993 - werkzeug - WARNING -  * Debugger is active!
+2024-04-15 12:47:34,993 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-15 15:08:35,912 - root - INFO - File ChatTA_Pipeline.png uploaded successfully to Google Drive with ID 1wdxz3NGnNNOXqobpKlxkCDdUM8G9kLEG
+2024-04-15 15:08:36,828 - root - INFO - Sheet updated with file info: ChatTA_Pipeline.png
+2024-04-15 15:08:36,830 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 15:08:36] "POST /upload HTTP/1.1" 200 -
+2024-04-15 15:08:40,812 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 15:08:40] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 15:09:04,764 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-15 15:09:04,884 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-15 15:09:05,239 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 15:09:05,243 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 15:09:05,253 - werkzeug - WARNING -  * Debugger is active!
+2024-04-15 15:09:05,257 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-15 15:09:06,234 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\noteanalysis.py', reloading
+2024-04-15 15:09:06,328 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-15 15:09:06,660 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 15:09:06,662 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 15:09:06,668 - werkzeug - WARNING -  * Debugger is active!
+2024-04-15 15:09:06,677 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-15 15:54:43,320 - root - INFO - File 2.jpg uploaded successfully to Google Drive with ID 1gYpn427QjauyIpYTA5bPm_Nm9qasssUa
+2024-04-15 15:54:44,878 - root - INFO - Sheet updated with file info: 2.jpg
+2024-04-15 15:54:44,882 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 15:54:44] "POST /upload HTTP/1.1" 200 -
+2024-04-15 15:54:50,125 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 15:54:50] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 15:57:46,880 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 15:57:46] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:15:53,251 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:15:53] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:17:24,905 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:17:24] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:23:52,149 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:23:52] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:25:19,131 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:25:19] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:25:19,531 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:25:19] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:25:24,445 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:25:24] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:30:34,391 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:30:34] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:30:48,925 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:30:48] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:35:07,491 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:35:07] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:38:28,967 - root - INFO - File 1501712573717_.pic.jpg uploaded successfully to Google Drive with ID 1Gtl_bpo13-dApcxqmh1hh-cP_NLswXsz
+2024-04-15 16:38:29,778 - root - INFO - Sheet updated with file info: 1501712573717_.pic.jpg
+2024-04-15 16:38:29,780 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:38:29] "POST /upload HTTP/1.1" 200 -
+2024-04-15 16:38:34,717 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:38:34] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:41:28,657 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:41:28] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:57:22,781 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:57:22] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 16:57:49,069 - root - INFO - File 2.jpg uploaded successfully to Google Drive with ID 1MMBFyarI4rdYhLWWFZ1mpvYgI2EXx-Dt
+2024-04-15 16:57:49,674 - root - INFO - Sheet updated with file info: 2.jpg
+2024-04-15 16:57:49,674 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:57:49] "POST /upload HTTP/1.1" 200 -
+2024-04-15 16:57:54,399 - root - INFO - File 2.jpg uploaded successfully to Google Drive with ID 1bIcqiRe-7G9J2XzHmoBZRQXsqgRTROKk
+2024-04-15 16:57:54,889 - root - INFO - Sheet updated with file info: 2.jpg
+2024-04-15 16:57:54,890 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:57:54] "POST /upload HTTP/1.1" 200 -
+2024-04-15 16:58:34,289 - root - INFO - File API.png uploaded successfully to Google Drive with ID 1kMNDBO8u35JW_pieeajhifDxy5Tedt6Z
+2024-04-15 16:58:34,815 - root - INFO - Sheet updated with file info: API.png
+2024-04-15 16:58:34,831 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:58:34] "POST /upload HTTP/1.1" 200 -
+2024-04-15 16:58:37,405 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 16:58:37] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 17:20:22,557 - root - INFO - File business-model-canvas.docx uploaded successfully to Google Drive with ID 1qbgRMzebqney9UwfFp8i_0NZmEntIjNW
+2024-04-15 17:20:23,569 - root - INFO - Sheet updated with file info: business-model-canvas.docx
+2024-04-15 17:20:23,571 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 17:20:23] "POST /upload HTTP/1.1" 200 -
+2024-04-15 17:20:25,289 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 17:20:25] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 17:53:04,108 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 17:53:04] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 18:10:39,950 - root - INFO - File API.png uploaded successfully to Google Drive with ID 1j8cbAw4w9-iKTt5C4JhC7OIf66_2m25Z
+2024-04-15 18:10:40,702 - root - INFO - Sheet updated with file info: API.png
+2024-04-15 18:10:40,703 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:10:40] "POST /upload HTTP/1.1" 200 -
+2024-04-15 18:10:42,935 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:10:42] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 18:11:06,798 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:11:06] "[33mGET /getlist HTTP/1.1[0m" 404 -
+2024-04-15 18:11:15,557 - root - INFO - File Assignment_3.docx uploaded successfully to Google Drive with ID 1nYNepRk42MfvmfowLfngr-Ga-TlpN7zP
+2024-04-15 18:11:15,920 - root - INFO - Sheet updated with file info: Assignment_3.docx
+2024-04-15 18:11:15,920 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:11:15] "POST /upload HTTP/1.1" 200 -
+2024-04-15 18:11:18,546 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:11:18] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 18:16:37,348 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:16:37] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 18:18:26,147 - root - INFO - File Assignment_4.docx uploaded successfully to Google Drive with ID 1pNRtHlZrN2usCOMdT7FheCQd3zWelPlJ
+2024-04-15 18:18:26,692 - root - INFO - Sheet updated with file info: Assignment_4.docx
+2024-04-15 18:18:26,692 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:18:26] "POST /upload HTTP/1.1" 200 -
+2024-04-15 18:18:28,688 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:18:28] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 18:18:44,948 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\syllabus.py', reloading
+2024-04-15 18:18:45,560 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-15 18:18:45,876 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 18:18:45,876 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 18:18:45,898 - werkzeug - WARNING -  * Debugger is active!
+2024-04-15 18:18:45,902 - werkzeug - INFO -  * Debugger PIN: 965-295-910
+2024-04-15 18:19:00,884 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 18:19:00] "GET /getlist HTTP/1.1" 200 -
+2024-04-15 18:24:34,764 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\flask\\app.py', reloading
+2024-04-15 18:24:34,766 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\cademo\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+2024-04-15 18:24:34,768 - werkzeug - INFO -  * Detected change in 'D:\\VS Projects\\CapstoneAssistantDemo\\server\\meeting.py', reloading
+2024-04-15 18:24:35,228 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-15 18:24:35,542 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 18:24:35,550 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-15 18:24:35,552 - werkzeug - WARNING -  * Debugger is active!
+2024-04-15 18:24:35,560 - werkzeug - INFO -  * Debugger PIN: 965-295-910

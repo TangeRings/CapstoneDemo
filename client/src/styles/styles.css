@@ -1,61 +1,4 @@
-.student_name_input {
-    width: 180px;
-    margin-top: 5px;
-  }
 
-/* Increasing specificity */
-.grade_column {
-    width: 30px;
-  }
-
-/* styles.css */
-.ActionBar {
-    border-top: none !important;
-    border-right: 1px !important;
-  }
-
-
-
-/* Dashboard Table Styles.css */
-.student-name-column {
-  width: 150px; /* Adjust the width as needed */
-}
-
-.item-column {
-  width: 300px; /* Adjust the width as needed */
-}
-
-.date-column {
-  width: 100px; /* Adjust the width as needed */
-}
-
-.other-column {
-  width: 300px; /* Adjust the width as needed */
-}
-
-
-/* Student Row Styles.css */
-.cell_student_name {
-  text-align: center;
-  width: 150px;
-  padding: 8px;
-}
-
-.cell_file {
-  text-align: center;
-  width: 300px;
-  padding: 8px;
-}
-
-.cell_date {
-  text-align: left;
-  width: 100px;
-  padding: 8px;
-}
-
-.action-bar-container {
-  padding-left: 200px; /* Adjust this value to suit your layout */
-}
 
 
 .meeting-page-container {
@@ -72,4 +15,12 @@
 
 .recorder {
     border-right: 2px solid #ccc; /* Visual separation between components */
+}
+
+.title {
+  font-size: 35px; /* example size, adjust as needed */
+  color: #333; /* example color, adjust as needed */
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 16px; /* space below the title */
+  /* add more styling as needed */
 }

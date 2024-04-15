@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Button, Card, Typography } from '@mui/material';
 import { Mic, Stop } from '@mui/icons-material';
 import axios from 'axios';
+import '../styles/styles.css';
 
 function Recorder({ title }) {
   const [isRecording, setIsRecording] = useState(false);
@@ -86,7 +87,7 @@ function Recorder({ title }) {
 
   return (
     <div>
-      <h1>{title}</h1>
+      <h1 className="title">{title}</h1>
       <Button
         variant="contained"
         color={isRecording ? "secondary" : "primary"}

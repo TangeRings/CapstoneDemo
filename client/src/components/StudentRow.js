@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { uploadFileToServer } from './Uploader';
 import { getSpreadsheetData } from './getList';
 import { Link } from 'react-router-dom';
+import '../styles/dashboard.css';
+
 
 
 
@@ -62,9 +64,9 @@ const StudentRow = ({ student }) => {
 
     return (
         <>
-            <tr>
-                <td>{student.name}</td>
-                <td>
+            <tr className="student-row">
+                <td className="student-name">{student.name}</td>
+                <td className="upload-column">
                     <input type="file" onChange={handleFileChange} disabled={isUploading} />
                     <button onClick={handleUploadClick} disabled={isUploading}>
                         {isUploading ? 'Uploading...' : 'Upload'}
@@ -76,9 +78,11 @@ const StudentRow = ({ student }) => {
             </tr>
             {/* Data display logic */}
             {spreadsheetData && spreadsheetData.length > 0 && (
-                <div>
-                    <h3>Uploaded Files</h3>
-                    <table>
+            
+                
+                <div className="uploaded-files-container">
+                    
+                    <table className="uploaded-files-table">
                         <thead>
                             <tr>
                                 <th>Filename</th>
